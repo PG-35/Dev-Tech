@@ -8,8 +8,6 @@ body{
     color: whitesmoke;
     background-repeat: no-repeat;
     background-image: url(Assets/pexels-pixabay-268533.jpg);
-    background-attachment: fixed;
-
 }
 a{
     float: right;
